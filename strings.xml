@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prototype2</string>
+    <string name="message1">Welcome to prototype2</string>
+    <string name="message2">Take a photo</string>
+    <string name="message3">Capture Photo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="message4">Open Map</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+</resources>
